@@ -97,19 +97,20 @@ The Express server runs at http://localhost:3000.
 
 ### 1. Home Endpoint – GET /
 
-![Home endpoint screenshot](screenshots/home.png)
+[Home endpoint screenshot](home.png)
 
 ### 2. About Endpoint – GET /about
 
-![About endpoint screenshot](screenshots/about.png)
+[About endpoint screenshot](about.png)
 
 ### 3. Time Endpoint – GET /time
 
-![Time endpoint screenshot](screenshots/time.png)
+[Time endpoint screenshot](time.png)
 
 ### 4. Unknown Route – 404 Response
 
-![404 response screenshot](screenshots/not-found.png)
+[404 response screenshot](not-found.png)
+
 
 ## Testing
 
